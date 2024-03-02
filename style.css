@@ -2,6 +2,16 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+div {
+  border-radius: 20px;
+}
+
+img {
+  width: 100%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
 #countries {
   display: flex;
   flex-wrap: wrap;
