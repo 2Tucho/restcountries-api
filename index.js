@@ -33,5 +33,7 @@ fetch("https://restcountries.com/v3.1/all")
   } */
 
   
-
-  //Para el premium, ya están los paises organizados por continentes, se accede por [i].continents
+//Para el premium, ya están los paises organizados por continentes, se accede por [i].continents
+let region = `
+              
+`

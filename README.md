@@ -27,3 +27,6 @@ El resultado final debería ser algo como esto:
 ## Bonus 🎁
 
 4 - Crear un filtro que permita al usuario seleccionar solo países del mismo continente, para esta iteración no hay elementos ni parte de código ya hecho, todo depende de ti 😜
+    - La idea es hacer un <button> que haga lo de la tarea normal (que aparezcan todos los paises ordenados alfabéticamente). Con un addEventListener
+    - Para el premium creo un pequeño <form> que tenga un <select> con todas las regiones posibles y un <submit> que esté asociado a una función que solo te imprima los países que contengan esa región en su .continents
+    - Lista de regiones: Europe, Ammericas, Africa, Asia, Oceania, Antarctic
